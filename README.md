@@ -1,11 +1,10 @@
 # Arpan Mandal — Curriculum Vitae
 
-📄 **[Download my CV (PDF)](./Arpan_Mandal_CV.pdf)**
+📄 **[Download my CV (PDF)](./CV.pdf)**
 
 ## Contact
-- Email: your_email_here
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: mandalarpan567@gmail.com
+- GitHub: https://github.com/arpan-mandal-107
 
 ## About
 Computer Science & Engineering student with strong interest in
